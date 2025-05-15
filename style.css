@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar-j{
+    border: 1px solid #ddd;
+    margin-top: 20px;
+}
+.nav-link{
+    color: grey;
+    font-size: 18px;
+    font-weight: bold;
+}
+.hero-section{
+    background-image: url(./hot-gadgets/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    gap: 20px;
+}
+.buy-now-btn{
+    padding: 15px 25px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    display: inline-block;
+}
+.heroimg{
+    height: 450px;
+}
